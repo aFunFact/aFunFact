@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @aFunFact
-- 👀 I’m interested in rhythm games like osu!, photography, computer hardware and software
+- 👀 Most games I play are osu!, Minecraft, and Apex Legends.
+- My hobbies are photography, building computers, and messing around with software 🤓
 - 🌱 I’m currently learning c#.
 - 📫 DM me | Discord: Fun Fact#0323 |
