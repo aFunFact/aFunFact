@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aFunFact
+- Hi, I’m @aFunFact 👋
 - 👀 Most games I play are osu!, Minecraft, and Apex Legends.
 - My hobbies are photography, building computers, and messing around with software 🤓
 - 🌱 I’m currently learning c#.
