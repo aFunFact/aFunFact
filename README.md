@@ -1,5 +1,5 @@
 - Hi, I’m @aFunFact 👋
-- 👀 Most games I play are osu!, Minecraft, and Apex Legends.
+- 👀 Daily Games I usually play are osu!, Minecraft, and Apex Legends.
 - My hobbies are gardening, building computers, and messing around with software 🤓
 - 🌱 I’m currently learning c#.
 - 📫 DM me | Discord: Fun Fact#0323 |
