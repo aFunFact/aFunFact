@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning c#.
 - 📫 DM me | Discord: Fun Fact#0323 |
 
-- |*Huge Inspiration to Zachary Patten's GitHub Repository*
-- |*Lots of Help from C# Discord Server*
+- ~ *Huge Inspiration to Zachary Patten's GitHub Repository*
+- ~ *Lots of Help from C# Discord Server*
